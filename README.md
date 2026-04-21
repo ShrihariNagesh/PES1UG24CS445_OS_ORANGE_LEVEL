@@ -21,7 +21,7 @@ Implements `object_write` and `object_read`. Objects are stored under `.pes/obje
 ![Screenshot 1A](Screenshot%201A.png)
 
 ### Screenshot 1B — Sharded Object Store Structure
-![Screenshot 1B](Screenshot%201B.png)
+![Screenshot 1B](Screenshot%20%201B.png)
 
 ---
 
